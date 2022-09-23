@@ -22,7 +22,6 @@ class ApiManager
    print(MoviesPopularREs);
    return MoviesPopularREs;
 
-
   }
 
 }
